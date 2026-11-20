@@ -8,7 +8,7 @@ export const PROJECTS_DATA = [
     client: "Carton Craft Ltd.",
     status: "Completed",
     scope: "Heavy Industrial Factory Shed, Pre-Engineered Steel Framing, Truss Erection & Roof Cladding",
-    image: "/images/cartonCraft-1024x1024.webp",
+    image: "./images/cartonCraft-1024x1024.webp",
     featured: true,
     highlights: ["Clear-span industrial factory design", "Heavy load crane beam integration", "High wind-load seismic compliance"]
   },
@@ -21,7 +21,7 @@ export const PROJECTS_DATA = [
     client: "PHP Group",
     status: "Completed",
     scope: "State-of-the-art Automobile Assembly & Showroom Structural Steel Framework",
-    image: "/images/phpMotors-1024x1024.webp",
+    image: "./images/phpMotors-1024x1024.webp",
     featured: true,
     highlights: ["Modern architectural facade support", "Vibration-resistant floor systems", "AISC & BNBC safety certified"]
   },
@@ -34,7 +34,7 @@ export const PROJECTS_DATA = [
     client: "Bangladesh Navy",
     status: "Completed",
     scope: "High-Security Heavy Precision Steel Workshop, Specialized Gantry Crane Girders & Overhead Structure",
-    image: "/images/gunWorkShop-1024x1024.webp",
+    image: "./images/gunWorkShop-1024x1024.webp",
     featured: true,
     highlights: ["High-tolerance military grade specs", "Anti-corrosive marine environment coating", "Heavy gantry structural design"]
   },
@@ -47,7 +47,7 @@ export const PROJECTS_DATA = [
     client: "Oxygen Sports Complex",
     status: "Completed",
     scope: "Long-Span Column-Free Steel Space Frame & Sports Arena Enclosure",
-    image: "/images/oxyzen-sports-zone-1024x1024.webp",
+    image: "./images/oxyzen-sports-zone-1024x1024.webp",
     featured: true,
     highlights: ["Column-free 120ft clear span", "Engineered acoustic & weatherproof roofing", "High-capacity illumination trusses"]
   },
@@ -60,7 +60,7 @@ export const PROJECTS_DATA = [
     client: "Green Nature Hospitality Ltd.",
     status: "Completed",
     scope: "Multi-Storey Steel Composite Luxury Resort Structure with Panoramic Cantilevers",
-    image: "/images/Green-Nature-Resort-and-Suites-1024x1024.webp",
+    image: "./images/Green-Nature-Resort-and-Suites-1024x1024.webp",
     featured: true,
     highlights: ["Seismic zone 4 resilient design", "Rapid construction composite decking", "Eco-friendly aesthetic finish"]
   },
@@ -73,7 +73,7 @@ export const PROJECTS_DATA = [
     client: "Sicho Sports",
     status: "Completed",
     scope: "Commercial Multi-Sport Indoor Stadium & Turf Arena Steel Roof Structure",
-    image: "/images/sicoArena-1024x1024.webp",
+    image: "./images/sicoArena-1024x1024.webp",
     featured: false,
     highlights: ["Tubular truss arch framing", "Lightweight insulated sandwich panels", "Fast-track erection in 45 days"]
   },
@@ -86,7 +86,7 @@ export const PROJECTS_DATA = [
     client: "Sea World Hospitality",
     status: "Completed",
     scope: "Heavy Structural Steel Extension & Rooftop Infinity Facility",
-    image: "/images/hotelSeaWorld-1024x1024.webp",
+    image: "./images/hotelSeaWorld-1024x1024.webp",
     featured: false,
     highlights: ["Coastal wind gust engineering", "Marine grade protective epoxy", "Lightweight structural retrofitting"]
   },
@@ -99,7 +99,7 @@ export const PROJECTS_DATA = [
     client: "Unitex Group",
     status: "Completed",
     scope: "Heavy Duty High-Speed Passenger & Freight Lift Core Steel Shaft",
-    image: "/images/unitex-1024x1024.webp",
+    image: "./images/unitex-1024x1024.webp",
     featured: true,
     highlights: ["12-storey external steel core", "Laser-aligned vertical guide rails", "Vibration damping anchorage"]
   },
@@ -112,7 +112,7 @@ export const PROJECTS_DATA = [
     client: "Hotel Star Park",
     status: "Completed",
     scope: "Panoramic Glass Capsule Elevator Steel Core & Sky Bridge",
-    image: "/images/hotelStarpark-1024x1024.webp",
+    image: "./images/hotelStarpark-1024x1024.webp",
     featured: true,
     highlights: ["Aesthetic exposed structural steel", "Precision glass facade integration", "Minimalist structural columns"]
   },
@@ -125,7 +125,7 @@ export const PROJECTS_DATA = [
     client: "Samara Real Estate",
     status: "Completed",
     scope: "Twin Lift Core Steel Shaft & Fire Escape Stairway System",
-    image: "/images/samaraBuilders-1024x1024.webp",
+    image: "./images/samaraBuilders-1024x1024.webp",
     featured: false,
     highlights: ["Dual elevator shaft synchronization", "2-hour fire-rated steel framing", "Retrofit on existing RCC structure"]
   },
@@ -138,7 +138,7 @@ export const PROJECTS_DATA = [
     client: "Hotel Agrabad Limited",
     status: "Completed",
     scope: "Modern High-Rise Steel Lift Core & Machine Room Structure",
-    image: "/images/hotelAgrabad-1024x1024.webp",
+    image: "./images/hotelAgrabad-1024x1024.webp",
     featured: false,
     highlights: ["Pre-engineered bolt connection system", "Night-shift rapid erection", "Zero downtime to hotel guests"]
   },
@@ -151,7 +151,7 @@ export const PROJECTS_DATA = [
     client: "Afsur Heights",
     status: "Completed",
     scope: "Residential Structural Steel Lift Core with Seismic Bracing",
-    image: "/images/khulsiAfsur-1024x1024.webp",
+    image: "./images/khulsiAfsur-1024x1024.webp",
     featured: false,
     highlights: ["Seismic chevron bracing", "Smooth ride acoustic dampeners", "Turnkey design & installation"]
   },
@@ -164,7 +164,7 @@ export const PROJECTS_DATA = [
     client: "Sports Authority",
     status: "Completed",
     scope: "Custom 45-Meter High-Mast Floodlight Steel Lattice Towers",
-    image: "/images/stadiumLightingTower-150x150.webp",
+    image: "./images/stadiumLightingTower-150x150.webp",
     featured: false,
     highlights: ["High wind load aerodynamics", "Hot-dip galvanized anti-rust finish", "Climbing safety cage & catwalks"]
   },
@@ -177,7 +177,7 @@ export const PROJECTS_DATA = [
     client: "Neo Print & Packaging",
     status: "Completed",
     scope: "Industrial Packaging Factory Shed & Raw Material Storage Warehouse",
-    image: "/images/neoPrint-1024x1024.webp",
+    image: "./images/neoPrint-1024x1024.webp",
     featured: false,
     highlights: ["Ventilated roof monitors", "Heavy machinery foundation support", "Insulated cladding"]
   },
@@ -190,7 +190,7 @@ export const PROJECTS_DATA = [
     client: "Multiple Corporate Clients",
     status: "Completed",
     scope: "Multi-Storey External Emergency Fire Escape Steel Staircase Towers",
-    image: "/images/SteelStair-150x150.webp",
+    image: "./images/SteelStair-150x150.webp",
     featured: false,
     highlights: ["BNBC fire code approved design", "Anti-slip checker plate treads", "Full safety railing & landing bays"]
   },
@@ -203,7 +203,7 @@ export const PROJECTS_DATA = [
     client: "Private Residence",
     status: "Completed",
     scope: "Contemporary Pre-Fabricated Steel Frame Villa with Large Cantilevers",
-    image: "/images/bangalowBari-1024x1024.webp",
+    image: "./images/bangalowBari-1024x1024.webp",
     featured: false,
     highlights: ["Architectural minimalist aesthetic", "Thermally broken insulated panels", "Built in 1/3 the time of RCC"]
   },
@@ -216,7 +216,7 @@ export const PROJECTS_DATA = [
     client: "Agro Farms Ltd.",
     status: "Completed",
     scope: "Engineered Controlled-Environment Poultry & Agro Steel Sheds (40,000 sq.ft)",
-    image: "/images/chickenShed-1024x1024.webp",
+    image: "./images/chickenShed-1024x1024.webp",
     featured: false,
     highlights: ["Corrosion-resistant galvanized purlins", "High airflow aerodynamic profile", "Bio-security compliant"]
   },
@@ -229,7 +229,7 @@ export const PROJECTS_DATA = [
     client: "Commercial Plaza",
     status: "Completed",
     scope: "Heavy Steel Lift Core Retrofitting on Operational Commercial Complex",
-    image: "/images/soltgolaCrossing-1024x1024.webp",
+    image: "./images/soltgolaCrossing-1024x1024.webp",
     featured: false,
     highlights: ["Non-invasive structural anchor bolts", "Full structural load verification", "Rapid delivery"]
   }

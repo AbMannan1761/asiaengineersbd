@@ -6,22 +6,22 @@ export default function Hero() {
     {
       title: "Services",
       href: "#services",
-      img: "/images/BUILDING-PROJECTS-COVER-PAGE-3_1610546163.jpg",
+      img: "./images/BUILDING-PROJECTS-COVER-PAGE-3_1610546163.jpg",
     },
     {
       title: "Contact Us",
       href: "#contact",
-      img: "/images/cartonCraft-1024x1024.webp",
+      img: "./images/cartonCraft-1024x1024.webp",
     },
     {
       title: "Lift (Portfolio)",
       href: "#lift-portfolio",
-      img: "/images/unitex-1024x1024.webp",
+      img: "./images/unitex-1024x1024.webp",
     },
     {
       title: "Steel Building Projects",
       href: "#projects",
-      img: "/images/phpMotors-1024x1024.webp",
+      img: "./images/phpMotors-1024x1024.webp",
     }
   ];
 

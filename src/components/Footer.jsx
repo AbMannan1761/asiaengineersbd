@@ -14,7 +14,7 @@ export default function Footer() {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-lg bg-white p-1 flex items-center justify-center shadow-xs">
                 <img 
-                  src="/images/asia_engineers_logo.png" 
+                  src="./images/asia_engineers_logo.png" 
                   alt="Asia Engineers BD" 
                   className="w-full h-full object-contain"
                 />

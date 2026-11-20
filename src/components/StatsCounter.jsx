@@ -112,7 +112,7 @@ export default function StatsCounter() {
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-2xl overflow-hidden border border-[#cbd5e1] shadow-xl">
               <img 
-                src="/images/BUILDING-PROJECTS-COVER-PAGE-3_1610546163.jpg" 
+                src="./images/BUILDING-PROJECTS-COVER-PAGE-3_1610546163.jpg" 
                 alt="Asia Engineers Steel Site" 
                 className="w-full h-[380px] object-cover"
               />
